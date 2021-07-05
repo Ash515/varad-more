@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub Profile!</br>
 
 - 🌱 I'm **Varad More**, an Engineering student pursuing in major Information Technology from FCRIT, Vashi, **India** <img src="https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="13"/>. 
-- 🔭  Co foudner and Chief Operating Officer at <a href="https://botonomics.io"> **Botonomics Automations LLP** <img src= "https://api.startupindia.gov.in/sih/api/file/user/image/Startup?fileName=ccb00c01-32a6-4bf3-8ef5-c6a1d74ad91d.png" width = "20"></a>. Check out our product <a href="https://teedee.io"> <img src="https://api.startupindia.gov.in/sih/api/file/user/gallery?fileName=3c3fcd64-7064-4f0b-ada1-21aad8d144c4.png" width="20"> **Teedee**</a>, An AI powered chatbot platform.
+- 🔭  Co foundner and Chief Operating Officer at <a href="https://botonomics.io"> **Botonomics Automations LLP** <img src= "https://api.startupindia.gov.in/sih/api/file/user/image/Startup?fileName=ccb00c01-32a6-4bf3-8ef5-c6a1d74ad91d.png" width = "20"></a>. Check out our product <a href="https://teedee.io"> <img src="https://api.startupindia.gov.in/sih/api/file/user/gallery?fileName=3c3fcd64-7064-4f0b-ada1-21aad8d144c4.png" width="20"> **Teedee**</a>, An AI powered chatbot platform.
 
 
 
